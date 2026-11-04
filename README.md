@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:00ff88,100:0066ff&height=260&section=header&text=H4ckWageKing&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=twinkling&stroke=00ff88&strokeWidth=2&desc=%E3%80%8C%20Code%20%E2%80%A2%20Hack%20%E2%80%A2%20Create%20%E3%80%8D&descSize=20&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:00ff88,100:0066ff&height=260&section=header&text=H4ckWageKing&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=twinkling&stroke=00ff88&strokeWidth=2&desc=%E3%80%8C%20Full%20Stack%20Developer%20%E2%80%A2%20Hack%20%E2%80%A2%20Create%20%E3%80%8D&descSize=20&descAlignY=60" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00FF88&background=00000000&center=true&vCenter=true&width=700&height=60&lines=%3E+initializing+H4ckWageKing...;%3E+Web+Developer+%F0%9F%8C%90;%3E+Software+Developer+%F0%9F%92%BB;%3E+Coding+straight+from+my+phone+%F0%9F%93%B1;%3E+Location%3A+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;%3E+status%3A+online+%E2%9C%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00FF88&background=00000000&center=true&vCenter=true&width=750&height=60&lines=%3E+initializing+H4ckWageKing...;%3E+Full+Stack+Developer+%F0%9F%8C%90;%3E+Software+Developer+%F0%9F%92%BB;%3E+C%23+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+Go+%7C+JS%2FTS;%3E+Coding+straight+from+my+phone+%F0%9F%93%B1;%3E+Location%3A+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;%3E+status%3A+online+%E2%9C%85" alt="Typing SVG" />
 
 <br/>
 
@@ -24,12 +24,12 @@
 ## 🖥️ `whoami`
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=600&color=00FF88&background=0D1117&width=620&height=150&lines=%24+whoami;%3E+H4ckWageKing;%24+cat+role.txt;%3E+Web+Developer+%7C+Software+Developer;%24+cat+location.txt;%3E+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;%24+cat+motto.txt;%3E+Code.+Learn.+Repeat." alt="terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=600&color=00FF88&background=0D1117&width=620&height=150&lines=%24+whoami;%3E+H4ckWageKing;%24+cat+role.txt;%3E+Full+Stack+Developer;%24+cat+location.txt;%3E+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;%24+cat+motto.txt;%3E+Code.+Learn.+Repeat." alt="terminal" />
 </div>
 
 <br/>
 
-- 💻 Web & Software Developer
+- 💻 **Full Stack Developer** (Frontend + Backend + Software)
 - 📱 I build and push code **straight from my smartphone**
 - 🎥 I create tech content on **YouTube & TikTok**
 - 🌱 Learning something new every single day
@@ -53,16 +53,22 @@
 
 ## 🛠️ Tech Arsenal
 
+### 💻 Languages
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,java,python,go,js,ts&theme=dark&perline=8" />
 </div>
 
-<br/>
+### 🌐 Web & Frameworks
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Web_Development-Learning-00ff88?style=flat-square" />
-  <img src="https://img.shields.io/badge/Responsive_Design-Learning-0066ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Version_Control-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark&perline=4" />
+</div>
+
+### 🗄️ Database & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark&perline=4" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -76,9 +82,9 @@
 ![](https://geps.dev/progress/30)
 
  |
-| 📚 Master HTML, CSS & JavaScript | 
+| ⚛️ Build Full Stack Projects (React + Node.js) | 
 
-![](https://geps.dev/progress/50)
+![](https://geps.dev/progress/40)
 
  |
 | 🎥 Grow YouTube & TikTok | 
@@ -98,7 +104,7 @@
 | Project | Tech | Status |
 |---------|------|--------|
 | 🌐 Personal Portfolio | HTML, CSS, JS | 🛠️ In Progress |
-| 🚧 Next project | ??? | ⏳ Coming Soon |
+| 🚧 Full Stack App | React, Node.js, SQL | ⏳ Coming Soon |
 
 </details>
 
